@@ -9,7 +9,22 @@
 
 Converts a color_palette.json file to a png, the colors are output in a horizontal line.
 
+## Prerequisites
 
-  
+- git
+- npm
 
+## Usagi
 
+- Clone the repo
+```
+git clone git@github.com:Traube1000101/json2color
+```
+- Change into the directory
+```
+cd json2color
+```
+- Start it & hf
+```
+npm start
+```
