@@ -9,12 +9,12 @@
 
 Converts a color_palette.json file to a png, the colors are output in a horizontal line.
 
-## Prerequisites
+### Prerequisites
 
 - git
 - npm
 
-## Usagi
+### Usagi
 
 - Clone the repo
 ```
